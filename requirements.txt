@@ -1,0 +1,7 @@
+torch
+torchvision
+diffusers
+transformers
+opencv-python
+imageio
+imageio[ffmpeg]
